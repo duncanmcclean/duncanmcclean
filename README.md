@@ -15,3 +15,5 @@ If you use any of my addons (especially my free ones), consider [sponsoring me](
 ---
 
 If you're interested in reading some of my blog posts (or an another About page), take a look at [my website](https://duncanmcclean.com). If you want to chat about anything, [send me an email](mailto:github@doublethree.digital).
+
+[![Tuple](https://img.shields.io/badge/Pairing%20with-Tuple-5A67D8)](https://tuple.app)
