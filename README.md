@@ -17,7 +17,3 @@ When I'm not doing development, you'll probably find me watching TV, hanging out
 * [Twitter](https://twitter.com/_duncanmcclean)
 * [duncanmcclean.com](https://duncanmcclean.com/) - my website, full of semi-regular blog posts
 * [@doublethreedigital](https://github.com/doublethreedigital) - the home of my Statamic Addons
-
----
-
-_yes, my commit graph is ever so very green and that's probably a bad thing but it is what it is_
