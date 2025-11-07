@@ -10,4 +10,3 @@ Outside my day job, I've always got a few side projects on the go. Right now I'm
 
 * [Cargo](https://github.com/duncanmcclean/statamic-cargo) - A comprehensive e-commerce addon for Statamic
 * [Runway](https://github.com/statamic-rad-pack/runway) - Allows you to manage Eloquent models from the Statamic Control Panel
-* A webhook tunnel built using Laravel Reverb. I shared an [early prototype](https://duncanmcclean.com/alright-heres-a-demo-of-how-im-using-reverb-outside-of-the-browser) on my blog (_WIP_)
