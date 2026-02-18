@@ -9,4 +9,4 @@ After many years of helping out in the Statamic Discord, building addons, triagi
 Outside my day job, I've always got a few side projects on the go. Right now I'm working on:
 
 * [Cargo](https://github.com/duncanmcclean/statamic-cargo) - A comprehensive e-commerce addon for Statamic
-* [Runway](https://github.com/statamic-rad-pack/runway) - Allows you to manage Eloquent models from the Statamic Control Panel
+* A data syncing service for accountants and Saas founders 
