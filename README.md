@@ -8,5 +8,5 @@ After many years of helping out in the Statamic Discord, building addons, triagi
 
 Outside my day job, I've always got a few side projects on the go. Right now I'm working on:
 
-* [Cargo](https://github.com/duncanmcclean/statamic-cargo) - A comprehensive e-commerce addon for Statamic
-* A data syncing service for accountants and Saas founders 
+- [Cargo](https://github.com/duncanmcclean/statamic-cargo) - A comprehensive e-commerce addon for Statamic
+- [ClearingHouse](https://clearinghouse.app) - Syncs Stripe revenue into FreeAgent (Saas)
